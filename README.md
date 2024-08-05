@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!! My name is Jeniffer Salvador, I'm Brazilian 👋
+• HTML studente
+• Space used for organizing and sharing projects
+contact for email: @jeniffersalvadorsouza1@gmail.com
+contact for instagram: @Jeni_slvdr
 
 <!--
 **Jenislvdr/Jenislvdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
